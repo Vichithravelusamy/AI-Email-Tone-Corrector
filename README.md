@@ -231,27 +231,8 @@ http://localhost:8501
 
 ---
 
-# 📸 Screenshots
 
-## Home Page
 
-> Add your screenshot here
-
-```
-screenshots/home.png
-```
-
----
-
-## AI Analysis Result
-
-> Add your screenshot here
-
-```
-screenshots/output.png
-```
-
----
 
 # 📊 Example
 
